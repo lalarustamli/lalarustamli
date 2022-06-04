@@ -8,9 +8,16 @@
 
 ### :woman_technologist: About Me :
 
-Software Engineer in Estonia
+I am Software Engineer in Estonia working at fintech and building digital customer service products. 
+I am working on a formula for making other lives easier while maximizing fun in the process.
 
-:mailbox: Contact: [![Linkedin Badge](https://img.shields.io/badge/-lala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslala/)
+- 🔭 Working at: Glia
+- 👩‍🎤 Can do anything non-boring
+- 💬 Feel free to ask me anything
+- 📩 Email: rustamlilala@gmail.com or reach out [![Linkedin Badge](https://img.shields.io/badge/-lala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslala/)
+- ⛰ Likes: Nick Cave music, Tarantino movies, Alain de Botton books, Georgian food
+- 🛼 Hobbies: multimedia art (drawing, painting on outlet, playing piano, etc.)
+
 
 ---
 
@@ -62,18 +69,3 @@ Software Engineer in Estonia
   
 [![Medium Badge](https://img.shields.io/badge/-medium-white?style=flat&logo=Medium&logoColor=white)](https://lala-rustamli.medium.com/)
 
-
-<!--
-**lalarustamli/lalarustamli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
