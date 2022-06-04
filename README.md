@@ -15,8 +15,7 @@ I am working on a formula for making other lives easier while maximizing fun in 
 - 👩‍🎤 Can do anything non-boring
 - 💬 Feel free to ask me anything
 - 📩 Email: rustamlilala@gmail.com or reach out [![Linkedin Badge](https://img.shields.io/badge/-lala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslala/)
-- ⛰ Likes: Nick Cave music, Tarantino movies, Alain de Botton books, Georgian food
-- 🛼 Hobbies: multimedia art (drawing, painting on outlet, playing piano, etc.)
+- 🛼 Hobbies: multimedia art (drawing, painting on outlet, playing piano, etc.), long walks in nature
 
 
 ---
