@@ -14,7 +14,7 @@ I have also done some php. Please don't tell anyone.
 - 📩 Email: rustamlilala@gmail.com or reach out [![Linkedin Badge](https://img.shields.io/badge/-lala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslala/)
 - 🔭 Currently learning: Genetic algorithms in Elixir.
 - 🛼 Hobbies: multimedia art (drawing, painting on outlet, playing piano, etc.), walking while listening to Nick Cave
-- 📚 Favorite authors: Umberto Eco, Jose Saramago, Ayn Rand, Elena Ferrante
+- 📚 Favorite authors: Stefan Zweig, Ayn Rand, Elena Ferrante, Umberto Eco, Jose Saramago
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
