@@ -5,11 +5,11 @@
 ---
 
 ### :woman_technologist: I am Lala
-Software Engineer in Estonia, currently writing Elixir, Ruby, JS. In my past, I was doing Python, C#.
+Software Engineer in Amsterdam, currently writing Elixir, Ruby, JS. In my past, I was doing Python, C#.
 <br>
 I have also done some php. Please don't tell anyone.
 
-- 🔭 Working at: Glia
+- 🔭 Working at: SkillLab
 - 💬 Ask me about: programming, consulting, mentorship or anything interesting. Open for discussions.
 - 📩 Email: rustamlilala@gmail.com or reach out [![Linkedin Badge](https://img.shields.io/badge/-lala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslala/)
 - 🔭 Currently learning: [Genetic algorithms in Elixir](https://github.com/lalarustamli/genetic).
